@@ -1,24 +1,5 @@
-# README
+# Project Tracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+App for tracking projects, tasks, milestones... Global view of the progress will increase the productivity.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Under development.
